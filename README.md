@@ -1,7 +1,7 @@
 # First Electron App
 
 ## Installation
-- `npm install`
+- install - `npm install`
 - run - `npm start`
 
 ## Steps To Replicate
