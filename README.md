@@ -2,7 +2,7 @@
 
 ## Installation
 - `npm install`
-- 
+- run - `npm start`
 
 ## Steps To Replicate
 - `npm init -y`
